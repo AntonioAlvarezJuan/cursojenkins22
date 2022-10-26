@@ -1,1 +1,1 @@
-ls -l
+ls -lrt; cat lista.sh
